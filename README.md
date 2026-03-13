@@ -42,8 +42,8 @@ Anotações e comandos importantes de Linux e segurança.
 
 ## 📫 Contato
 
-LinkedIn: (adicione quando criar)  
-Email: (opcional)
+LinkedIn: (https://www.linkedin.com/in/davinicolau-dev) 
+Email: (davinicolauti@gmail.com)
 ## 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolaudev-hub&show_icons=true&theme=tokyonight)
