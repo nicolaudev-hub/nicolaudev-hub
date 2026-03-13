@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá, eu sou o Davi Nicolau 👋
 
-<!--
-**nicolaudev-hub/nicolaudev-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔐 Focado em Cibersegurança  
+💻 Aprendendo Java, Python e Segurança da Informação  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias em aprendizado
+
+- Java
+- Python
+- Git e GitHub
+- Linux
+- Redes de Computadores
+
+---
+
+## 📚 Atualmente estudando
+
+- Fundamentos de Cibersegurança (Cisco)
+- Programação em Java
+- Segurança ofensiva e defensiva
+
+---
+
+## 📂 Projetos Planejados
+
+🔹 password-generator-java  
+Gerador de senhas seguras em Java.
+
+🔹 port-scanner-python  
+Scanner simples de portas usando Python.
+
+🔹 calculadora-java  
+Calculadora básica para treinar lógica em Java.
+
+🔹 linux-security-notes  
+Anotações e comandos importantes de Linux e segurança.
+
+---
+
+## 📫 Contato
+
+LinkedIn: (adicione quando criar)  
+Email: (opcional)
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolaudev-hub&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaudev-hub&layout=compact&theme=tokyonight) 
+![](https://komarev.com/ghpvc/?username=nicolaudev-hub&color=blue)
