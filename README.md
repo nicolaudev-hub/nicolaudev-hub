@@ -1,52 +1,118 @@
-# Olá, eu sou o Davi Nicolau 👋
+# Davi Nicolau
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔐 Focado em Cibersegurança  
-💻 Aprendendo Java, Python e Segurança da Informação  
+🔐 Cybersecurity Student | Infrastructure Analyst
 
----
-
-## 🚀 Tecnologias em aprendizado
-
-- Java
-- Python
-- Git e GitHub
-- Linux
-- Redes de Computadores
+Passionate about Information Security, Linux, Networking and Python Automation.
 
 ---
 
-## 📚 Atualmente estudando
+## About Me
 
-- Fundamentos de Cibersegurança (Cisco)
-- Programação em Java
-- Segurança ofensiva e defensiva
-
----
-
-## 📂 Projetos Planejados
-
-🔹 password-generator-java  
-Gerador de senhas seguras em Java.
-
-🔹 port-scanner-python  
-Scanner simples de portas usando Python.
-
-🔹 calculadora-java  
-Calculadora básica para treinar lógica em Java.
-
-🔹 linux-security-notes  
-Anotações e comandos importantes de Linux e segurança.
+* 🎓 Student of Analysis and Systems Development (ADS)
+* 🔐 Focused on Cybersecurity
+* 🐧 Linux enthusiast
+* 🌐 Interested in Network Security
+* 🐍 Learning Python for Security and Automation
+* 💻 Background in IT Infrastructure
 
 ---
 
-## 📫 Contato
+## Current Learning
 
-LinkedIn: (https://www.linkedin.com/in/davinicolau-dev) 
-Email: (davinicolauti@gmail.com)
-## 📊 Estatísticas GitHub
+* Cisco Cybersecurity Fundamentals
+* Linux Fundamentals
+* Networking Fundamentals
+* Python Programming
+* Git & GitHub
+* Offensive Security Concepts
+* Defensive Security Concepts
+* TryHackMe Learning Paths
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolaudev-hub&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaudev-hub&layout=compact&theme=tokyonight) 
-![](https://komarev.com/ghpvc/?username=nicolaudev-hub&color=blue)
+## Technical Skills
+
+### Operating Systems
+
+* Linux
+* Windows
+
+### Networking
+
+* TCP/IP
+* DNS
+* DHCP
+* Subnetting
+* Routing Fundamentals
+
+### Security
+
+* Security Fundamentals
+* Network Security
+* Linux Security
+* Vulnerability Assessment
+* Security Awareness
+
+### Programming
+
+* Python
+* Java
+
+### Tools
+
+* Git
+* GitHub
+* Nmap
+* Wireshark
+* VirtualBox
+
+---
+
+## Projects
+
+### 🔹 Port Scanner (Python)
+
+Simple port scanner developed in Python for learning networking and security concepts.
+
+### 🔹 Linux Security Notes
+
+Collection of Linux commands, notes and security-related concepts.
+
+### 🔹 Password Generator (Java)
+
+Secure password generator developed to practice programming logic.
+
+### 🔹 Calculator (Java)
+
+Basic calculator project created to improve programming fundamentals.
+
+---
+
+## Current Goals
+
+* Build practical cybersecurity projects
+* Improve Linux administration skills
+* Advance Python development
+* Develop networking expertise
+* Create a strong cybersecurity portfolio
+* Transition into a Cybersecurity role
+
+---
+
+## Connect With Me
+
+💼 LinkedIn:
+linkedin.com/in/davinicolau-dev
+
+📧 Email:
+[davinicolauti@gmail.com](mailto:davinicolauti@gmail.com)
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolaudev-hub\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaudev-hub\&layout=compact\&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=nicolaudev-hub\&color=blue)
