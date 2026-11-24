@@ -23,6 +23,6 @@ Profissional de infraestrutura Linux com foco em administração de servidores e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-<a href="[LINK_DE_VERIFICACAO](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3E6116E70D277F810E3C4E0B42CA7E4CACACD684EE093D96776FA7E5AD997B8C)">
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3E6116E70D277F810E3C4E0B42CA7E4CACACD684EE093D96776FA7E5AD997B8C">
   <img src="assets/oci-foundations-associate.jpg" alt="Oracle Cloud Infrastructure Certified Foundations Associate" width="180">
 </a>
