@@ -28,6 +28,6 @@ Profissional de infraestrutura Linux com foco em administração de servidores e
     <img src="OCI26FNDCFA.jpg" alt="Oracle Cloud Infrastructure Certified Foundations Associate" width="150">
   </a>
   <a href="https://www.credly.com/earner/earned/badge/0c9cecf1-3bd0-408a-b8c5-5d2a3a1cf5ba">
-    <img src="JuniorCybersecurityAnalystUpdate20261124-20-sfd7iz.pdf" alt="Cisco Junior Cybersecurity Analyst Career Path" width="150">
+    <img src="image.png" alt="Cisco Junior Cybersecurity Analyst Career Path" width="150">
   </a>
 </p>
