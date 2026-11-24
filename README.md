@@ -1,6 +1,5 @@
 # Nicolau
 
-# Nicolau
 
 `Linux & DevOps` `Cloud · OCI Certified` `Java & C#`
 
