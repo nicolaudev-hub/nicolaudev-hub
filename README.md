@@ -23,4 +23,5 @@ Profissional de infraestrutura Linux com foco em administração de servidores e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-[![Oracle Cloud Infrastructure Certified Foundations Associate](./assets/oci-foundations-associate.jpg)](LINK_DE_VERIFICACAO)
+<img width="552" height="276" alt="OCI26FNDCFA" src="https://github.com/user-attachments/assets/9eda0826-62f9-4319-be0d-e65280ce5fa3" />
+
