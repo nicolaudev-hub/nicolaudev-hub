@@ -23,6 +23,11 @@ Profissional de infraestrutura Linux com foco em administração de servidores e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E6116E70D277F810E3C4E0B42CA7E4CACACD684EE093D96776FA7E5AD997B8C">
-  <img src="OCI26FNDCFA.jpg" alt="Oracle Cloud Infrastructure Certified Foundations Associate" width="180">
-</a>
+<p align="left">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E6116E70D277F810E3C4E0B42CA7E4CACACD684EE093D96776FA7E5AD997B8C">
+    <img src="OCI26FNDCFA.jpg" alt="Oracle Cloud Infrastructure Certified Foundations Associate" width="150">
+  </a>
+  <a href="LINK_DA_CREDLY">
+    <img src="cisco-junior-cybersecurity-analyst.png" alt="Cisco Junior Cybersecurity Analyst Career Path" width="150">
+  </a>
+</p>
